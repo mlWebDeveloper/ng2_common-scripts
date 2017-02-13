@@ -1,9 +1,7 @@
-// Common Angular 2 imports
-
-// Common Angular2 and TypeScript code
+// Common Angular 2 component sample
 import {Component} from '@angular/core';
+
 // import {HelloWorld} from 'ng2-components/components';
- 
 @Component({
   moduleId: module.id,
   selector: 'ng-app',
